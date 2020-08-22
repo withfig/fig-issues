@@ -21,7 +21,7 @@ As programmers, we want to make Fig perfect. We welcome all user ideas and opini
 If you have multiple bugs or requests that are not closely related, please separate them into different issues.
 
 ## The Fig Community
-[![Fig Slack Community](https://www.atspoke.com/wp-content/uploads/2019/05/Slack-Logo.png)](https://figcommunity.slack.com/join/shared_invite/zt-fupa9n8g-sfHm8MyBn1DBaCj8SoIxSA#/)
+[![Fig Slack Community](https://github.com/jesseduffield/lazydocker/raw/master/docs/resources/slack_rgb.png)](https://figcommunity.slack.com/join/shared_invite/zt-fupa9n8g-sfHm8MyBn1DBaCj8SoIxSA#/)
 
 
 
