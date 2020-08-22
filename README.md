@@ -29,7 +29,7 @@ If you have multiple bugs or requests that are not closely related, please separ
 * [Download Fig](https://withfig.com) (currently in private beta)
 * Build a Fig App using [Fig.js API](https://docs.withfig.com/apps)
 * Build [Interactive Documentation](https://docs.withfig.com/interactive-runbooks-1)
-* View Source Code / Contribute to [open source Fig Apps](https://github.com/c)
+* View Source Code / Contribute to [open source Fig Apps](https://github.com/withfig/fig-apps)
 
 
 ## Support
