@@ -1,3 +1,12 @@
+#  🚨🚨🚨 Please use [withfig/fig](https://github.com/withfig/fig) to report issues 🚨🚨🚨
+We are adjusting our repo structure and are phasing this repo out. Please create all your issues in the [withfig/fig](https://github.com/withfig/fig) repo
+
+
+
+---
+
+
+
 # Fig
 
 [Fig](http://withfig.com) is the App Store for the Terminal. We let developers build visual apps and shortcuts that streamline terminal workflows. We then let you share these apps with your team and the community.
